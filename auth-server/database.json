@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "akarawin7999@gmail.com",
+      "password": "$2b$10$zEYzA0smPwFrLDGkNAHKp.7E4a3xo4Dbto0LoBbvxklJMYUR.Bgnq"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$5R7AH9I.gRhVmyqEeUcafetT4CpS49n.OnTR1Jb5TsDV/bJ78H/K2"
+    },
+    {
+      "email": "akarawin13@hotmail.com",
+      "password": "$2b$10$kBtOC4i7s6dcrOqlAaoBvOxm8xhKtcvPfx36jtqIElfDYFfWJIclO"
+    }
+  ]
+}
